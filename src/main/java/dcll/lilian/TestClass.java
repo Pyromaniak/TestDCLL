@@ -3,6 +3,11 @@ package dcll.lilian;
 /**
  * Created by Lilian on 14/04/2016.
  */
+
+/*
+* Un commentaire qui répond aux éxigences 1 et 2
+* */
+
 public class TestClass {
     protected int nombre;
     protected String mot;
