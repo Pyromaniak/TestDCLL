@@ -4,8 +4,8 @@ package dcll.lilian;
  * Created by Lilian on 14/04/2016.
  */
 public class TestClass {
-    int nombre;
-    String mot;
+    protected int nombre;
+    protected String mot;
 
     public TestClass(int nombre, String mot) {
         this.nombre = nombre;
