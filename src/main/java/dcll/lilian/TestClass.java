@@ -25,6 +25,10 @@ public class TestClass {
         return mot;
     }
 
+    /*
+    * création du toString pour l'exigence 2
+    * @return
+    * */
     @Override
     public String toString() {
         return "TestClass{" +
